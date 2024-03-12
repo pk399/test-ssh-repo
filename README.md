@@ -4,7 +4,7 @@
 1. `git push`
 
 # Git how to (SSH edition):
-1. Install `openssh'
+1. Install `openssh`
 1. `ssh-keygen -t ed25519 -C "<email>"`
 1. `eval "$(ssh-agent -s)"`
 1. `ssh-add <path to key>`
